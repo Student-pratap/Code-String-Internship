@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,500;1,600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(28, 111, 136);
+}
+
+body h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.header {
+    text-align: center;
+    padding-top: 0.5rem;
+}
+
+.header img {
+    height: 162px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.header p {
+    padding-top: 0.3rem;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: greenyellow;
+}
+
+.header h2 {
+    padding-top: 0.3rem;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+.container1 {
+    margin-top: 2rem;
+    padding-left: 2rem;
+}
+
+.container2 {
+    margin-top: 2rem;
+    padding-left: 2rem;
+}
+
+.container3 {
+    margin-top: 2rem;
+    padding-left: 2rem;
+}
+
+.container4 {
+    margin-top: 2rem;
+    padding-left: 2rem;
+}
+
+.container5 {
+    margin-top: 2rem;
+    padding-left: 2rem;
+}
+
+.container6 {
+    margin-top: 2rem;
+    padding-left: 2rem;
+}
+
+#project {
+    margin-top: 2rem;
+    padding-left: 2rem;
+}
+
+#exper {
+    margin-top: 2rem;
+}
+
+#main {
+    padding-top: 0.5rem;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#cont {
+    padding-top: 0.5rem;
+}
+
+#cont li {
+    list-style: none;
+}
+
+#cont li a {
+    text-decoration: none;
+    color: white;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#edu {
+    color: white;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#edu ul li {
+    list-style: none;
+}
+
+#skill {
+    padding-top: 0.5rem;
+}
+
+#skill li {
+    list-style: none;
+    color: white;
+    padding-top: 0.1rem;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#project{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#project p {
+    padding-top: 0.2rem;
+    color: white;
+}
+
+#project h4 {
+    padding-top: 1rem;
+}
+
+#project span {
+    padding-top: 0.5rem;
+    color: greenyellow;
+}
+
+#exper{
+    /* padding-top: 0.5rem; */
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#exper p{
+    padding-top: 0.5rem;
+    color: white;
+}
+
+#exper span{
+    padding-top: 0.5rem;
+    color: greenyellow;
+}
